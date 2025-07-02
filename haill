@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Tràn bộ nhớ - Nhạc nền tự phát</title>
+</head>
+<body style="text-align:center; font-family:sans-serif; padding-top:100px;">
+  <h1>🎵 Trang web với nhạc nền: Tràn bộ nhớ – Dương Domic</h1>
+  <p>Nhạc sẽ tự động phát khi bạn mở trang (nếu trình duyệt cho phép).</p>
+
+  <!-- Nhúng video YouTube ẩn để phát nhạc nền -->
+  <iframe width="0" height="0"
+    src="https://www.youtube.com/embed/UOghlKYx88M?autoplay=1&loop=1&playlist=UOghlKYx88M"
+    frameborder="0"
+    allow="autoplay"
+    allowfullscreen>
+  </iframe>
+
+</body>
+</html>
